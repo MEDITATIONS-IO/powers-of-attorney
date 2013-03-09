@@ -1,36 +1,36 @@
 ---
 
-title: Durable Power of Attorney
-author: Watershed Legal Services
-level-1: Article 1.
-level-2: Section 1.
-level-3: (a)
-date: _____________
-prinicipal_full: 
-principal_type:
+# Optional Clauses
+irrevocable: 
+
+# Mixins
+attorney_address: 
+attorney_full: 
+attorney_substitutes: 
+date: 
+expiration: 
+governing_law: 
+obligatory_agreement: 
+principal_address: 
+principal_full: 
 principal_reg: 
-principal_address:
-principal_representative:
-attorney_full:
-attorney_address:
-attorney_substitutes:
-transaction_details:
-transaction_documents:
-irrevocable:
-obligatory_agreement:
-expiration:
-governing_law:
-venue:
+principal_representative: 
+prinicipal_type: 
+venue: 
+
+# Structured Headers
+level-1: 
+level-2: 
+level-3: 
 
 ---
 
 This power of attorney is entered into as of {{date}} by {{principal_full}} ("Principal"). The Principal is {{prinicipal_type}} [registered under the laws of {{principal_reg}},] with an address of {{principal_address}}[, operating in and therefore subject to the laws of {{principal_reg}}][, and represented by {{principal_representative}}]. 
 
-l. Appointment and Powers
 ll. The Principal appoints {{attorney_full}} having an address of {{attorney_address}}[ and {{attorney_substitutes}}] as the "Attorney" for Principal. 
+l. Appointment and Powers
 ll. The Principal grants Attorney exclusive discretion to perform the functions listed as described in the following clause. 
 ll. Upon this appointment the Principal agrees that the Attorney is hereby authorized to speak on behalf of Principal in pursuit of the following objectives or to perform the following functions:
-lll. to consider, settle, approve, sign, execute, deliver and/or issue all agreements, documents, certificates and instruments (whether as a deed or not) which the Attorney considers desirable in connection with {{transaction_details}} (Transaction). The documents include without limitation the following: {{transaction_documents}}, subject to such amendments or variations as the Attorney may agree provided that such amendments or variations are of a minor nature and are not material to the Transaction; and
 lll. to take any steps or do any thing which the Attorney considers desirable in connection with the implementation of the Transaction or the implementation and/or execution of the Documents; and
 lll. to appoint one or more persons to act as a substitute attorney for the Principal and to exercise one or more of the powers conferred on the Attorney by this power of attorney.
 l. Delegation by Corporate Attorney
