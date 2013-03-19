@@ -2,7 +2,7 @@
 
 This is a simple repository of powers of attorney and related documents. The files should be self explanatory.
 
-Why did we make this repository? GitLaw. That's why. It is a basis for some work we have gotten ourselves into. 
+Why did we make this repository? GitLaw. That's why.
 
 # Formatting
 
